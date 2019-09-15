@@ -17,7 +17,7 @@
   </component>
   <component name="GOROOT" path="/usr/lib/go-1.10" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/github.com/dgrijalva/jwt-go" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="urls">
